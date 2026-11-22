@@ -1,0 +1,6 @@
+{
+  "version": "2.1.0",
+  "date": "2026-11-22",
+  "notes": "Faster transcription, lower memory use, time estimates and batch-size guidance, storage clean-up, update notifications and email sign-up for news.",
+  "url": "https://github.com/camba281/audio-transcriber-releases/releases"
+}
