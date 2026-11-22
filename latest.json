@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "date": "2026-11-22",
-  "notes": "Faster transcription, lower memory use, time estimates and batch-size guidance, storage clean-up, update notifications and email sign-up for news.",
-  "url": "https://github.com/camba281/audio-transcriber-releases/releases"
+  "notes": "Audio Transcriber is now Voxlume: every voice, brought to light. Same app, new name, plus the 2.1 speed and reliability improvements.",
+  "url": "https://github.com/camba281/voxlume-releases/releases"
 }
